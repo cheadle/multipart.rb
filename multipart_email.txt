@@ -1,0 +1,57 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: greg@greg.com
+Received: by 10.231.201.7 with SMTP id ey7cs295ibb;
+        Wed, 17 Aug 2011 17:56:05 -0700 (PDT)
+Received: by 10.227.200.146 with SMTP id ew18mr91176wbb.16.1313628963936;
+        Wed, 17 Aug 2011 17:56:03 -0700 (PDT)
+Return-Path: <test@uservoice.com>
+Received: from mail-ww0-f44.google.com (mail-ww0-f44.google.com [74.125.82.44])
+        by mx.google.com with ESMTPS id fr17si4292837wbb.121.2011.08.17.17.56.01
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 17 Aug 2011 17:56:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of test@uservoice.com designates 74.125.82.44 as permitted sender) client-ip=74.125.82.44;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of test@uservoice.com designates 74.125.82.44 as permitted sender) smtp.mail=test@uservoice.com
+Received: by mail-ww0-f44.google.com with SMTP id 5so1040332wwf.13
+        for <greg@greg.com>; Wed, 17 Aug 2011 17:56:01 -0700 (PDT)
+Received: by 10.227.55.66 with SMTP id t2mr60102wbg.109.1313628961175; Wed, 17
+ Aug 2011 17:56:01 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.227.146.130 with HTTP; Wed, 17 Aug 2011 17:55:41 -0700 (PDT)
+From: Richard <test@uservoice.com>
+Date: Wed, 17 Aug 2011 17:55:41 -0700
+Message-ID: <CABDuwKvCeevzWAHJgG7-FKFWGFBV3Px8XejJ4UHKfTo7MEw6QA@mail.gmail.com>
+Subject: Good to finally catch up
+To: Greg <greg@greg.com>
+Content-Type: multipart/mixed; boundary=20cf3002587a98fab604aabd1387
+
+--20cf3002587a98fab604aabd1387
+Content-Type: multipart/alternative; boundary=20cf3002587a98faae04aabd1385
+
+--20cf3002587a98faae04aabd1385
+Content-Type: text/plain; charset=UTF-8
+
+It was good to finally find some time to connect. I've attached the Ruby
+practical that we spoke about. Ship that back to me at your leisure and I'll
+intro you to some other folks around here.
+
+Richard
+
+--20cf3002587a98faae04aabd1385
+Content-Type: text/html; charset=UTF-8
+
+It was good to finally find some time to connect. I&#39;ve attached the Ruby practical that we spoke about. Ship that back to me at your leisure and I&#39;ll intro you to some other folks around here.<div><br clear="all">Richard<br>
+</div>
+
+--20cf3002587a98faae04aabd1385--
+--20cf3002587a98fab604aabd1387
+Content-Type: application/pdf; name="RubyPractical.pdf"
+Content-Disposition: attachment; filename="RubyPractical.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_grh0qhf80
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iago8PC9MZW5ndGggNTcyMS9GaWx0ZXIvRmxhdGVEZWNvZGU+
+PnN0cmVhbQp4nJVdS89tx1E1YnYYQBDMQPrEABJAm34/UEYoNmACieEmDsTMIhNFtiVnwh/hB1NV
++9i3u46zukqRcqVP67Srq+vd1bW/fvzDu0dubymFt3e/enz47vHJ4+tHeOszvX1J/4a3Lx4tpm//
+YTc1MTY2MjliYWU0ZmI+XS9JbmZvIDE2IDAgUi9TaXplIDE3Pj4Kc3RhcnR4cmVmCjQ5NjczCiUl
+RU9GCg==
+--20cf3002587a98fab604aabd1387--
