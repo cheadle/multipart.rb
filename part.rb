@@ -7,7 +7,7 @@ module MailMod
       @raw = str
       @content_type = /^Content-Type: (.+)/i.match(@raw)[1]
       @multipart = /multipart\/(.+);/i.match(@content_type) ? true : false
-      @mime_type = /^(.+);/i.match(content_type)[1];
+      @mime_type = /^(.+);/i.match(@content_type)[1];
       @boundary = /boundary=(.+)/.match(@content_type)[1] if /boundary=/ =~ @content_type
       @body_index = @raw =~ /\n\n/
       @content_header = @raw.slice(0..@body_index)

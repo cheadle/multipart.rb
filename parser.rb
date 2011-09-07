@@ -15,5 +15,16 @@ module MailMod
     def is_part?(str)
       /^Content-Type: / =~ str ? true : false
     end
+    
+    def show_mime_content(part, mime)
+      part.parts.each do |p|
+        puts p.content_body if p.mime_type == mime
+        show_mime_content(p, mime) if p.multipart
+      end
+    end
+    
+    def collect_attachments(part)
+      # TODO parse header for Content-Disposition and collect attachments
+    end
   end
 end
